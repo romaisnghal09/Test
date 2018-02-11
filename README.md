@@ -1,1 +1,1 @@
-# Test project
+# Test slack and git integration
